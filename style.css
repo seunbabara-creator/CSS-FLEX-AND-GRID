@@ -55,4 +55,9 @@ p{
 #button3{
     color:hsl(179, 100%, 13%) ;
     margin-top: 40px;
+}
+#load{
+    background-color: black;
+    color: white;
+    height: 15%;
 }   
